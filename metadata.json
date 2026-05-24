@@ -1,0 +1,6 @@
+{
+  "name": "Pratik İngilizce Öğrenme Platformu",
+  "description": "DEHB dostu, Türklerin İngilizce öğrenme zorluklarına odaklanan, yapay zeka ses analizli pratik ve aralıklı tekrarlama (SRS) sistemi.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
